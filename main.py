@@ -7,7 +7,7 @@ from openai import OpenAI
 
 recognizer=sr.Recognizer()
 engine=pyttsx3.init()
-newsapi="75fa6b858ce147c28f464a9274b27c78"
+newsapi="Enter your Api"
 
 
 def speak(text):
