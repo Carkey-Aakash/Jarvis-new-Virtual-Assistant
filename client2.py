@@ -17,4 +17,3 @@ completion = client.chat.completions.create(
 print(completion.choices[0].message.content)
 
 
-#this will only run because this api is paid we have to pay 5$ for this 
